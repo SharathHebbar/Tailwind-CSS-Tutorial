@@ -1,9 +1,12 @@
 # Tailwind CSS
+
+[Demo playground](https://play.tailwindcss.com/VhoM8XFm2h?layout=preview)
+
+
 ![page 1](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial/blob/main/assets/1.png)
 ![page 2](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial/blob/main/assets/2.png)
 ![page 3](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial/blob/main/assets/3.png)
 
-[Demo playground](https://play.tailwindcss.com/VhoM8XFm2h?layout=preview)
 
 - Pre-defined
 - Easier than CSS
